@@ -1,0 +1,20 @@
+{
+  "name": "lawyerisout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tomyfalgui/lawyerisout.git",
+  "author": "Tomas Alejandro V. Falgui III <tomyfalguiiii@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+  },
+  "dependencies": {
+    "gatsby": "^2.15.35",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
